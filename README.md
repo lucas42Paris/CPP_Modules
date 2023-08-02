@@ -39,7 +39,6 @@ __Concepts covered during these modules__:
 * Module07 : templates.
 * Module08 : container templates, iterators and algorithms.
 * Module09 : STL (vector, list and map).
-  
 
 ![Rating](./Module00/rating.png)
 ![Rating](./Module01/rating.png)
