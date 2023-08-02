@@ -5,7 +5,7 @@
 Ces dix modules introduisent à la programmation orientée objet et plus particulièrement le langage C++ !
 Chaque module contient une liste d'exercices, allant du plus facile au plus difficile.
 
-Les programmes doivent compiler avec `c++` ainsi que les flags `-Wall` `-Wextra``-Werror` `-std=c++98`.
+Les programmes doivent compiler avec `c++` ainsi que les flags `-Wall` `-Wextra` `-Werror` `-std=c++98`.
 
 __Notions abordees durant ces modules__ :
 
