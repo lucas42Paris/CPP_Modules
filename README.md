@@ -22,7 +22,7 @@ __Notions abordees durant ces modules__ :
 
 🇺🇸
 
-These ten modules introduce object-oriented programming and more particularly the C++ language!
+These ten modules introduce object-oriented programming and more particularly the C++ language!  
 Each module contains a list of exercises, ranging from the easiest to the most difficult.
 
 Programs must compile with `c++` and flags `-Wall` `-Wextra` `-Werror` `-std=c++98`.
