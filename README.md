@@ -7,7 +7,7 @@ Chaque module contient une liste d'exercices, allant du plus facile au plus diff
 
 Les programmes doivent compiler avec `c++` ainsi que les flags `-Wall` `-Wextra` `-Werror` `-std=c++98`.
 
-__Notions abordees durant ces modules__ :
+__Notions abordées durant ces modules__ :
 
 * Module00 : notions de base comme les namespaces, les classes, les fonctions membres, les streams stdio, les listes d’initialisation, les variables statiques et constantes.
 * Module01 : allocation mémoire, pointeurs sur membres, références et switch.
