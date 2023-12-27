@@ -40,7 +40,6 @@ __Notions abordées durant ces modules__ :
 * Module08 : containers templates, itérateurs et algorithmes.
 * Module09 : STL (vector, list et map).
 
-
 ![Rating](./Module00/rating.png)
 ![Rating](./Module01/rating.png)
 ![Rating](./Module02/rating.png)
